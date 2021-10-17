@@ -1,2 +1,2 @@
 # M07_03_Pokedex
-PHP crud of pokemons
+basic PHP CRUD of pokemons (MVC)
