@@ -14,6 +14,11 @@
         <input type="number" name="pokemon_height">
         <input type="number" step="0.01" name="pokemon_weight">
         <input type="text" name="pokemon_evolution">
+        <input type="submit">
+
+
+        
+
     </form>
 </body>
 </html>
